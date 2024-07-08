@@ -14,7 +14,7 @@ npm install
 npm run dev
 ```
 open http://localhost:5173/
-## Create .env file and fill in the following fields
+## Create .env file in backend directory and fill in the following fields
 ```
 MONGO_URL = <your link to database>
 ```
