@@ -2,8 +2,8 @@ application created with express react tailwind
 
 # SETUP AND START
 ```
-git clone https://github.com/landelen/test-task.git
-cd test-task
+git clone https://github.com/landelen/idea-list.git
+cd idea-list
 
 cd backend
 npm install
